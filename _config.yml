@@ -28,9 +28,9 @@ twitter_username: laogui
 github_username:  laogui
 
 # Build settings
-remote_theme: pages-themes/modernist@v0.2.0
+markdown: kramdown
+theme: jekyll-theme-minima
 plugins:
-  - jekyll-remote-theme
   - jekyll-feed
 
 # Exclude from processing.
