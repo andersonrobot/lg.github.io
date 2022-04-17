@@ -22,9 +22,7 @@
 title: laogui's life
 email: me@laogui.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I try to live the life the way I want.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://laogui.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: laogui
@@ -55,5 +53,4 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 =======
-theme: jekyll-theme-leap-day
 >>>>>>> 6778d471c24cbf20494d6fbd45b7d023f145084a
