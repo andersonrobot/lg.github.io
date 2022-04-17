@@ -29,7 +29,7 @@ twitter_username: laogui
 github_username:  laogui
 
 # Build settings
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
